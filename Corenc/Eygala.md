@@ -1,0 +1,3 @@
+#corenc
+[[Les Oiseaux]]
+[[Monfleury]]

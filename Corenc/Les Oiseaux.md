@@ -1,0 +1,3 @@
+#corenc 
+[[Buclos]]
+[[Eygala]]

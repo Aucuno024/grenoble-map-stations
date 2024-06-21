@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "603be06349014c07",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d7dce1242bb8a19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6758881fe7889a5",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view-global",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a0dbf6e154269b5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f47dab07590bd0b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1c432c56c963ecd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea6f898add8043e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49c048b0453a655c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b336fba62e056c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fontaine/Saint-Eynard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7b01eaafaf4da7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "215ae72c279a8de5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c14591e6fec2bbf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0756e766fb5b526d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ee1166675ebd28c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8b7651f5a15b15e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fa62fe16334ff7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9236550235462c8e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7be5ba05009cc6f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "canvas:Créer une nouvelle toile": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "juggl:Juggl global graph": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "ea6f898add8043e1",
+  "lastOpenFiles": [
+    "Nouveau Document texte.txt",
+    "grenoble-map-stations",
+    "Fontaine/Saint-Eynard.md",
+    "Grenoble/Gares.md",
+    "Grenoble/Durant Savoyat.md",
+    "Echirolles/Danielle Casnova.md",
+    "Echirolles/Les Glières.md",
+    "Pont-de-Claix/Gendarmerie.md",
+    "Echirolles/Vassieux.md",
+    "Echirolles/Colonel Manhès.md",
+    "Echirolles/Musée Géo-Charles.md",
+    "Echirolles/Bayard.md",
+    "Echirolles/Quinzaine.md",
+    "Echirolles/Auguste Ferrier.md",
+    "Echirolles/Marie Curie.md",
+    "Echirolles/Paul Héroult.md",
+    "Echirolles/Grugliasco.md",
+    "Echirolles/Monmousseau.md",
+    "Grenoble/Beauvert.md",
+    "Grenoble/Xavier Jouvin.md",
+    "Grenoble/Les Essarts.md",
+    "Grenoble/Verlaine.md",
+    "Grenoble/Massenet.md",
+    "Grenoble/Clos d'Or.md",
+    "Grenoble/Eugène Sue.md",
+    "Grenoble/Capuche.md",
+    "Grenoble/Rue des Déportés.md",
+    "Corenc",
+    "Murianette",
+    "Domène",
+    "Poisat",
+    "Fontanil-Cornillon",
+    "Saint-Egrève",
+    "Saint Martin Le Vinoux",
+    "Sans titre.canvas",
+    "Gière",
+    "Fontaine"
+  ]
+}
