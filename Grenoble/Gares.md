@@ -1,5 +1,8 @@
+---
+locations:
+---
 ## Localisation
-Arrêt situé à Grenoble
+Arrêt situé à Grenoble [](geo:45.18944361301189,5.715701580047608)
 
 ## Connexion
 [[Alsace-Lorraine]] avec la ligne #A en direction de L'Etoile, la ligne #B en direction de Plaine des Sports
@@ -13,3 +16,5 @@ Arrêt situé à Grenoble
 - en #chrono avec la ligne #c1 
 - en #proximo avec la ligne #vingt-six 
 - en #flexo avec la ligne #quarante
+
+

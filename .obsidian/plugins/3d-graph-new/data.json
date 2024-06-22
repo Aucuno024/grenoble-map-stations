@@ -1,0 +1,137 @@
+{
+  "savedSettings": [],
+  "temporaryLocalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false,
+      "depth": 1,
+      "linkType": "both"
+    },
+    "groups": [],
+    "display": {
+      "nodeSize": 3,
+      "linkThickness": 2,
+      "linkDistance": 100,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 300,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": true,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "temporaryGlobalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false
+    },
+    "groups": [
+      {
+        "query": "path:Claix  ",
+        "color": "#3bafd3"
+      },
+      {
+        "query": "path:Corenc  ",
+        "color": "#909dfe"
+      },
+      {
+        "query": "path:Echirolles  ",
+        "color": "#1b00eb"
+      },
+      {
+        "query": "path:Domène  ",
+        "color": "#80f000"
+      },
+      {
+        "query": "path:Eybens  ",
+        "color": "#000000"
+      },
+      {
+        "query": "path:Fontanil-Cornillon  ",
+        "color": "#fafafa"
+      },
+      {
+        "query": "path:Gière  ",
+        "color": "#702ac6"
+      },
+      {
+        "query": "path:\"La tronche\"  ",
+        "color": "#eb2fd6"
+      },
+      {
+        "query": "path:Grenoble  ",
+        "color": "#f51000"
+      },
+      {
+        "query": "path:Meylan  ",
+        "color": "#8a937e"
+      },
+      {
+        "query": "path:Fontaine  ",
+        "color": "#622757"
+      },
+      {
+        "query": "path:Murianette  ",
+        "color": "#df80df"
+      },
+      {
+        "query": "path:Poisat  ",
+        "color": "#6c747a"
+      },
+      {
+        "query": "path:Pont-de-Claix  ",
+        "color": "#88f1cb"
+      },
+      {
+        "query": "path:\"Saint Martin Le Vinoux\"  ",
+        "color": "#e2c508"
+      },
+      {
+        "query": "path:Saint-Egrève  ",
+        "color": "#53ad81"
+      },
+      {
+        "query": "path:Seyssinet-Pariset  ",
+        "color": "#152a6a"
+      },
+      {
+        "query": "path:Seyssins  ",
+        "color": "#c3e0a0"
+      },
+      {
+        "query": "path:SMH  ",
+        "color": "#bb9fd2"
+      }
+    ],
+    "display": {
+      "nodeSize": 3,
+      "linkThickness": 2,
+      "linkDistance": 100,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 300,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": true,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "pluginSetting": {
+    "maxNodeNumber": 1000,
+    "searchEngine": "default",
+    "rightClickToPan": false,
+    "commandLeftClickNode": "openNodeInNewTab",
+    "commandRightClickNode": "focusNode"
+  }
+}

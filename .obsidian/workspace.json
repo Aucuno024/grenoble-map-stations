@@ -8,55 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5af101bac97a403c",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "bfe4a804c487f7ba",
-            "type": "leaf",
-            "state": {
-              "type": "3d-graph-view-global",
-              "state": {}
-            }
-          },
-          {
-            "id": "7321b9f036c739c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grenoble/Alsace-Lorraine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f87528452582ca3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fontaine/La Poya.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd6428273049acfc",
+            "id": "17f52e0e07e21aea",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,37 +167,38 @@
       "3d-graph-new:Global 3D Graph": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "juggl:Juggl global graph": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "obsidian-map-view:Open map view": false
     }
   },
-  "active": "dd6428273049acfc",
+  "active": "17f52e0e07e21aea",
   "lastOpenFiles": [
-    "Echirolles/Surieux.md",
-    "Grenoble/Alsace-Lorraine.md",
+    "SMH/Péri Brosselete.md",
+    "Gière/Plaine des Sports.md",
+    "SMH/Neyrpic Belledonne.md",
+    "SMH/Hector Berlioz Universités.md",
+    "SMH/Gabriel Fauré - MUSE.md",
+    "SMH/Bibliothèques Universitaires.md",
+    "SMH/Condillac Universités.md",
     "Fontaine/La Poya.md",
-    "Corenc/Eygala.md",
-    "Domène/Chenevières.md",
-    "Fontaine/Charles Michels.md",
-    "Fontaine/Fontaine Hotel de Ville La Source.md",
-    "Fontaine/Louis Maisonnat.md",
-    "Fontaine/Les Fontainades Le Vog.md",
-    "Grenoble/Berriat Le Magasin.md",
-    "Grenoble/Saint-Bruno.md",
-    "Grenoble/Gares.md",
-    "Grenoble/Victor Hugo.md",
-    "Echirolles/Auguste Delaune.md",
+    "Gière/Gière Gare Universiés.md",
+    "SMH/Mayencin Champ Roman.md",
+    "SMH/Les Alpilles.md",
+    "SMH/Universités - Biologie.md",
+    "SMH/Les Taillés Université.md",
+    "La tronche/Grand Sablon.md",
+    "La tronche/Michalon.md",
+    "La tronche/La Tronche Hopital.md",
+    "Grenoble/Ile Verte.md",
+    "Grenoble/Notre-Dame - Musée.md",
+    "Grenoble/Sainte-Claire - Les Halles.md",
     "Grenoble/Hubert  Dubedout  Maison du  Tourisme.md",
-    "Grenoble/Verdun Prefecture.md",
-    "Grenoble/Chavant.md",
-    "Grenoble/Albert 1er de Belgique.md",
-    "Grenoble/Mounier.md",
-    "Grenoble/M2C maison de la Culture.md",
-    "Grenoble/Malherbe.md",
-    "Fontaine/Saint-Eynard.md",
-    "Grenoble/La Bruyère Parc Jean Verlhac.md",
-    "Grenoble/Arlequin.md",
-    "Grenoble/Grand'place.md",
-    "Grenoble/Polesud-Alpexpo.md",
+    "Grenoble/Victor Hugo.md",
+    "Grenoble/Alsace-Lorraine.md",
+    "Grenoble/Gares.md",
+    "Grenoble/Saint-Bruno.md",
+    "Grenoble/Palais de Justice.md",
+    "Grenoble/Cité Internationale.md",
     "Nouveau Document texte.txt",
     "grenoble-map-stations",
     "Corenc",

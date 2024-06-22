@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#tram  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -151,6 +151,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.010952991388875902,
+  "scale": 0.021528718442430456,
   "close": false
 }
